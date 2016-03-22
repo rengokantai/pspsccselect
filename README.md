@@ -25,4 +25,27 @@ ctrl alt j  copy selected part to new layer
 use pen tool  
 alt+click, change path to anchor point.
 
-######
+######15
+select a channel->image-adjustments-levels  
+x swap color
+
+######16
+select a layer   image-adjustments-threshold
+ctrl shift i inverse  
+adjustment: exposure adjustment increasing exposure
+######18
+quick mask  mode  
+load a selection, press `q`  
+the ruby area means non-selected area.
+
+
+#####4
+######20
+precise cursor->capslock
+
+
+#####5
+######31
+filter->lens correction->(custom)-vignette amount(left),modpoint(left)
+######32
+hold ctrl, can distort selection
